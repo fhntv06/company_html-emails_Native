@@ -1,14 +1,22 @@
 # Инструкция верстки писем для рассылки
 
-### Ссылка на youtube пример:
-  <blockquote>
-    <a href="https://www.youtube.com/watch?v=u-jkI19omLo">https://www.youtube.com/watch?v=u-jkI19omLo</a>
-  </blockquote>
+<blockquote>
+  <h4>Примеры работ компаний:</h4>
+  <ul>
+    <li>Компания <a href="https://dom-a-dom.ru/" target="_blank">Домадом</a>: <a href="https://fhntv06.github.io/company_html-emails_Native/domadom-email/" target="_blank">работа</a></li>
+    <li>Компания <a href="https://www.getbrand.ru/" target="_blank">Get Brand</a>: <a href="https://fhntv06.github.io/company_html-emails_Native/getbrand-email/" target="_blank">работа</a></li>
+    <li>
+      Компания
+      <a href="https://optitech.ru/" target="_blank">Optitech</a>: <a href="https://fhntv06.github.io/company_html-emails_Native/optitech-email/email-optitech-new-year/" target="_blank">Новогоднее письмо</a>
+      <a href="https://fhntv06.github.io/company_html-emails_Native/optitech-email/email-optitech/" target="_blank">Обычное письмо</a>
+    </li>
+  </ul>
+</blockquote>
 
-### Ссыка на гит примера:
-  <blockquote>
-     <a href="https://github.com/maxdenaro/maxgraph-youtube-source/blob/master/%D0%92%D0%B5%D1%80%D1%81%D1%82%D0%BA%D0%B0%20HTML-%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%B0%20%D0%B2%202022/index.html">https://github.com/maxdenaro/maxgraph-youtube-source/blob/master/%D0%92%D0%B5%D1%80%D1%81%D1%82%D0%BA%D0%B0%20HTML-%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%B0%20%D0%B2%202022/index.html</a>
-  </blockquote>
+## Полезные ссылки с примерами
+[Пример](https://fhntv06.github.io/company_html-emails_Native/example.html)
+[Youtube](https://www.youtube.com/watch?v=u-jkI19omLo)
+[Гит](https://github.com/maxdenaro/maxgraph-youtube-source/blob/master/%D0%92%D0%B5%D1%80%D1%81%D1%82%D0%BA%D0%B0%20HTML-%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%B0%20%D0%B2%202022/index.html)
 
 ## Требования к верстке писем
   <ol>
